@@ -1,0 +1,10 @@
+# Building a Java project
+language: java
+
+# We can specify a list of JDKs to be used for testing
+jdk:
+ - openjdk11
+
+notifications:
+email:
+- 10195101465@stu.ecnu.edu.cn
