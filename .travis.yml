@@ -6,5 +6,6 @@ jdk:
  - openjdk11
 
 notifications:
-email:
-- 1841187753@qq.com
+  email:
+    - 1841187753@qq.com
+
